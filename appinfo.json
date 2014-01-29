@@ -1,0 +1,27 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "66275e6b-6b37-4181-e328-5964124da43a",
+    "appKeys": {
+        "price_doge": 0,
+        "price_usdk": 1
+    },
+    "longName": "DogeTicker Price Monitor",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "DogeTicker",
+    "companyName": "johanso",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_BG",
+                "file": "images/background.png"
+            }
+        ]
+    }
+}
